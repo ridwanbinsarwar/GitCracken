@@ -29,5 +29,4 @@ Add this content to your `hosts` file:
 0.0.0.0 release.gitkraken.com
 ```
 
-Check [GitCracken/README.md](https://github.com/5cr1pt/GitCracken/blob/master/GitCracken/README.md) for more usage information.
 
