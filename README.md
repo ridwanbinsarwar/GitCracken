@@ -15,7 +15,7 @@ Author: KillWolfVlad at [GitKraken-AUR](https://github.com/KillWolfVlad/GitKrake
 
 ## Quick start
 
-- `git clone https://github.com/5cr1pt/GitCracken.git`
+- `git clone https://github.com/xenon-r/GitCracken.git`
 - `cd GitCracken/GitCracken/`
 - `yarn install`
 - `yarn build`
